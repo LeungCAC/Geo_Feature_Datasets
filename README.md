@@ -1,6 +1,6 @@
 # Geo_Feature_Datasets
 
-This is the codes of paper 《A Geometrical Characterization on Feature Density of Datasets》.
+This is the codes of paper 《A Geometrical Characterization on the Feature Density of Datasets》.
 
 data_load.py, dataset_gen.py, dataset_visual.py: Dataset load, write and visualization.
 
